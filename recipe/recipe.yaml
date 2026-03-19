@@ -27,7 +27,7 @@ requirements:
     - pip
   run:
     - python >=${{ python_min }}
-    - paraview
+    - paraview >=6
     - trame >=3.12
     - trame-vtk >=2.10
     - trame-vuetify >=3.1
