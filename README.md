@@ -13,11 +13,10 @@ Current build status
 ====================
 
 
-<table><tr><td>All platforms:</td>
+<table><tr>
+    <td>All platforms:</td>
     <td>
-      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=27420&branchName=main">
-        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/e3sm-quickview-feedstock?branchName=main">
-      </a>
+      <img src="https://img.shields.io/badge/noarch-disabled-lightgrey.svg" alt="noarch disabled">
     </td>
   </tr>
 </table>
@@ -146,4 +145,5 @@ Feedstock Maintainers
 * [@alesgenova](https://github.com/alesgenova/)
 * [@jourdain](https://github.com/jourdain/)
 * [@psavery](https://github.com/psavery/)
+* [@willdunklin](https://github.com/willdunklin/)
 
